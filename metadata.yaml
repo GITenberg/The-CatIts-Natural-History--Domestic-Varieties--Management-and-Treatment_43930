@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '42483'
     url: http://www.gutenberg.org/2009/agents/42483
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43930#The-CatIts-Natural-History--Domestic-Varieties--Management-and-Treatment
 gutenberg_issued: '2013-10-11'
 gutenberg_type: Text
 identifiers:
